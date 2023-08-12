@@ -1,0 +1,25 @@
+.covinContainer {
+  display: flex;
+  flex-direction: column;
+  background-color: #161625;
+}
+.covin-card {
+  padding-top: 50px;
+  margin-left: 100px;
+  width: 70%;
+  color: #cbd5e1;
+  padding-bottom: 50px;
+  font-family: roboto;
+}
+.website-card {
+  display: flex;
+  align-items: center;
+}
+.img {
+  height: 50px;
+  width: 50px;
+  margin-right: 10px;
+}
+.co-win {
+  color: #2cc6c6;
+}
